@@ -3,7 +3,6 @@ module.exports = {
     title: 'Crumbly by Nature',
     author: 'Radhika',
     description: "Fitness, programming, random books I've read, and ramblings.",
-    // siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
     social: {
       twitter: 'crumblybynature',
     },
