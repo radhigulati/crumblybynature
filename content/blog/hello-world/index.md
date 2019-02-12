@@ -7,7 +7,7 @@ Welcome to my blog!
 
 I'm super late to the blogging game, but as they say
 
-![alt text](http://image-cdn.neatoshop.com/styleimg/60374/none/white/default/356222-19;1498125898c.jpg)
+![alt text](https://res.cloudinary.com/teepublic/image/private/s--q0TyXUr9--/t_Preview/b_rgb:ffffff,c_lpad,f_jpg,h_630,q_90,w_1200/v1498125567/production/designs/1685920_1.jpg)
 
 Here are some things I'm hoping to write about:
 
