@@ -3,6 +3,7 @@ module.exports = {
     title: 'Crumbly by Nature',
     author: 'Radhika',
     description: "Fitness, programming, random books I've read, and ramblings.",
+    siteUrl: `crumblybynature.com/`,
     social: {
       twitter: 'crumblybynature',
     },
