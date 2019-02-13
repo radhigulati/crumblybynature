@@ -25,4 +25,4 @@ What I'm saying is, maybe we can learn together.
 
 ![alt text](https://media.makeameme.org/created/learning-together-is-csuqbi.jpg)
 
-Shout-out to Gatsby.js for this blog template! I'll continue making small tweaks to the blog.
+Shout-out to [GatsbyJS](https://www.gatsbyjs.org/) for this blog template! I'll continue making small tweaks to the blog.
