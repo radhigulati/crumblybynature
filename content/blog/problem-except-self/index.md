@@ -41,3 +41,5 @@ Now, I can append each `product` to the `output` array which we are supposed to 
 I was really close here (yes, I know I haven't returned the `output` array yet). Where I kept failing
 
 ![Alt-text](code.png)
+
+![Alt-text](all.png)
