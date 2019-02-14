@@ -17,8 +17,7 @@ The problem states
 
 Example:
 
-> `Input: [1,2,3,4]` </br>
-> `Output: [24,12,8,6]`
+> `Input: [1,2,3,4]` </br> > `Output: [24,12,8,6]`
 
 > Note: Please solve it without division and in O(n).
 
@@ -42,7 +41,7 @@ As an example, I went through code and I show you exactly what happens, step by 
 
 <img src="all.png" alt="all" width="200" height="200"/>
 
-Here are some example inputs and outputs:
+Here are some example inputs and outputs
 
 `input: [1,2,3,4]`</br>
 `output: [24, 12, 8, 6]`
