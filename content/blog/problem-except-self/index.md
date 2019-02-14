@@ -84,8 +84,10 @@ Hopefully this walk through was helpful. I'm planning on doing this weekly. If t
 
 Here is my code in my code editor with some examples
 
-<img src="actualcode.png" alt="all" width="200" height="200"/>
+<img src="actualcode.png" alt="code" width="200" height="200"/>
+
 </br>
+
 On to the next one!
 
 ![Alt text](https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif)
