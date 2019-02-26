@@ -49,7 +49,7 @@ def linear_bigo(elements):
 linear_bigo([1,2,3,4,5,6,7,8,9,10])
 ```
 
-This piece of code is `O(n)` because depending on however many elements are in the input, will be however many times our for loop executes. If there are 10 elements in the elements array, the for loop will execute 10 times.
+This piece of code is `O(n)`. Depending on how many elements are in the input, will be the amount of times the for loop executes. If there are 10 elements in the elements array, the for loop will execute 10 times.
 
 If there are 1,000,000 elements in the elements array, the for loop will execute 1,000,000 times.
 
@@ -131,9 +131,9 @@ The out output would look like </br>
 `1 2 4` </br>
 ... and the program continues until our last output is `4 4 4`.
 
-If we take a look at our graph for `O(n)` we can see as `n` gets bigger the amount of operations increases substantially. This isn't something want. If our algorithms grows at a high rate, that means that our computer is working very hard to compute the algorithm. We want the least amount of operations as possible.
+If we take a look at our graph for `O(n)` we can see as `n` gets bigger the amount of operations increases substantially. This isn't something want. If our algorithm grows at a high rate, that means that our computer is working very hard to compute the algorithm. We want the least amount of operations as possible.
 
-Hopefully, this post gives some clarity into what big o is. It can be hard to wrap your mind around the concept, but if you stare at the words on your screen long enough, good things might happen!
+Hopefully, this post gives some clarity into what big O is. It can be hard to wrap your mind around the concept, but if you stare at the words on your screen long enough, good things might happen!
 
 ![alt text](https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif)
 
