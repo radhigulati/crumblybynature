@@ -131,9 +131,9 @@ The out output would look like </br>
 `1 2 4` </br>
 ... and the program continues until our last output is `4 4 4`.
 
-If we take a look at our graph for `O(n)` we can see as `n` gets bigger the amount of operations increases substantially. This isn't something want. If our algorithm grows at a high rate, that means that our computer is working very hard to compute the algorithm. We want the least amount of operations as possible.
+If we take a look at our graph for `O(n^2)` we can see as `n` gets bigger the amount of operations increases substantially. This isn't something we want. If our algorithm grows at a high rate, that means that our computer is working very hard to compute the algorithm. We want the least amount of operations as possible.
 
-Hopefully, this post gives some clarity into what big O is. It can be hard to wrap your mind around the concept, but if you stare at the words on your screen long enough, good things might happen!
+Hopefully, this post gives some clarity into what big O is. It can be hard to wrap your mind around the concept at first, but if you stare at the words on your screen long enough, good things might happen!
 
 ![alt text](https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif)
 
