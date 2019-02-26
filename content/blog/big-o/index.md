@@ -18,9 +18,9 @@ One graph I really appreciate is this one:
 ![alt text](bigograph.png)
 (The graph is from Jose Portilla's course on Data Structures and algorithms on Udemy)
 
-What exactly are we looking at? We see that the x-axis of the graph is labeled `n` and the y-axis is labeled 'relative runtime.'
+What exactly are we looking at? We see that the x-axis of the graph is labeled `n` and the y-axis is labeled `relative runtime`.
 
-That means, as `n` increases, so does their runtime, for the most part.
+That means, as `n` increases, so does its runtime, for the most part.
 
 With Big O, we are measuring how fast an algorithm _grows_. That can sound confusing at first so let's go through some examples of the most common Big O's.
 
@@ -87,11 +87,11 @@ Only 5 passes for a list of 32 elements, that's pretty impressive. When we look 
 ### O(n<sup>2</sup>) or Quadratic
 
 ```
-def linear_bigo(elements):
+def quadratic_bigo(elements):
     for i in elements:
         for j in elements:
             print(i,j)
-linear_bigo([1,2,3,4])
+quadratic_bigo([1,2,3,4])
 ```
 
 Here we have a nested loop. Let's run through this code. We start with our outer for loop so `i = 0`. Then we move to our inner loop where `j=0` as well. Now we print `0 0`. Our inner loop keeps running until we are at the end of the list. Once we are at the end of the list, we iterate `i` again so `i=1`.
@@ -112,12 +112,12 @@ What is happening here? The inner loop will run `n` times for each iteration of 
 `O(n^3)` would be similar.
 
 ```
-def linear_bigo(elements):
+def quadratic_bigo(elements):
     for i in elements:
         for j in elements:
             for k in elements:
             print(i,j,j)
-linear_bigo([1,2,3,4])
+quadratic_bigo([1,2,3,4])
 ```
 
 The out output would look like </br>
