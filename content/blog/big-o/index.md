@@ -20,7 +20,7 @@ One graph I really appreciate is this one:
 
 What exactly are we looking at? We see that the x-axis of the graph is labeled `n` and the y-axis is labeled `relative runtime`.
 
-That means, as `n` increases, so does its runtime, for the most part.
+That means as `n` (the input) increases, so does its runtime, for the most part.
 
 With Big O, we are measuring how fast an algorithm _grows_. That can sound confusing at first so let's go through some examples of the most common Big O's.
 
